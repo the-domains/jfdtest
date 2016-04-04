@@ -2,6 +2,7 @@ name: jfdtest
 favicon: null
 layout_spectrum: 0.07692596386186779
 typography_spectrum: 0.05667391209863126
+title: JFDTEST TITLE
 cta:
   domain: null
   bucket: null
