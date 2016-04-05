@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JFDTEST TITLE]]></title>
+        <description><![CDATA[JFDTEST TITLE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Apr 2016 10:42:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Draft Article]]></title>
+            <description><![CDATA[<article><h1>First Draft Article</h1><p>Bot passes Turing Test; judges think it's a 13-year-old boy</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/311ef975-5ebf-4120-b44c-105c74190dc7.jpg"></article>]]></description>
+            <link>undefinedfirst-draft-article/index.html</link>
+            <guid isPermaLink="false">7143093e-a1d7-42b9-b9f5-a58cd894a5ed</guid>
+            <pubDate>Tue, 05 Apr 2016 10:42:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
