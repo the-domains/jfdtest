@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.7697064552921802
+  saturation: 0.7724015
   brandStrength: 0.8018681679386646
-  rhythmicContrast: 0.8493441662285477
+  lightness: 0.634755
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  lightness: 0.634754967642948
+  rhythmicContrast: 0.8494624
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: jfdtest
 favicon: null
+name: jfdtest
 opengraph:
   image: null
   type: null
